@@ -3,6 +3,7 @@ from tkinter import ttk, messagebox
 from frequenze import mostra_menu_frequenze
 import traceback
 
+
 def form_cambia_valori(self):
     form = tk.Toplevel(self.root)
     form.title("Modifica linguaggio")

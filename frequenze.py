@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 
+
 def mostra_menu_frequenze(self):
     self._clear_contenuto()
     ttk.Label(self.contenuto, text="Seleziona un indicatore per vedere le frequenze:", font=("Arial", 13)).pack(pady=10)

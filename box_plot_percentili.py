@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 
+
 def mostra_menu_boxplot(self):
     self._clear_contenuto()
 

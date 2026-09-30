@@ -5,6 +5,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import numpy as np
 from scipy.stats import linregress
 
+
 def mostra_dati_bivarianti(self):
     self._clear_contenuto()
 

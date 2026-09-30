@@ -12,6 +12,7 @@ from dati_bivarianti import mostra_dati_bivarianti
 from istogramma import mostra_menu_istogramma
 
 
+
 class App:
     def __init__(self, root):
         self.root = root

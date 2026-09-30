@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 import numpy as np
 
+
 def mostra_intervalli_rappresentativi(self):
     self._clear_contenuto()
 

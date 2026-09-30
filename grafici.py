@@ -3,6 +3,7 @@ from tkinter import ttk
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
+
 def mostra_menu_grafici(self):
     self._clear_contenuto()
     ttk.Label(self.contenuto, text="Scegli un indicatore da visualizzare come grafico:", font=("Arial", 12)).pack(

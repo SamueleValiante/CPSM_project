@@ -1,6 +1,7 @@
 from tkinter import ttk
 import tkinter as tk
 
+
 class Descrizione:
     def __init__(self, parent):
         self.frame = ttk.Frame(parent, width=220, relief=tk.RIDGE)

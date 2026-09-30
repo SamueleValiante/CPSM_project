@@ -2,6 +2,7 @@ import math
 import tkinter as tk
 from tkinter import ttk
 
+
 def moda_campionaria(valori):
     frequenze = {}
     for v in valori:
